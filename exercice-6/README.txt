@@ -1,0 +1,1 @@
+Pour créer les dossiers et fichiers, ils nous a juste fallut utiliser la commande mkdir et touch afin de les créer, en utilisant la syntaxe mkdir -p documents/{} et touch documents/{} afin d'optimiser le code.
