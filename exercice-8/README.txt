@@ -1,0 +1,1 @@
+Pour celui-là, nous avons d'abord utilisés la piste donnée dans le sujet, puis pensés à des conditions afin de déterminer quand dire que le nombre donné est plus haut ou plus bas que le nombre choisis, ou quand le nombre est trouvé.
